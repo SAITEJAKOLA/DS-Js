@@ -1,6 +1,10 @@
 /*
 Bineary Search takes an sorted array.
-Divide and concqure
+Divide and conqure
+
+BIG O
+worst/avg case - O(log n)
+Best case - O(1)
 */
 
 function binarySearch(arr, num) {
